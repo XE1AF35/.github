@@ -2,6 +2,8 @@
 Small, local-first tools for photographers.
 Everything runs in your browser and stays on your device. No accounts, no servers, and no tracking.
 
+**Website:** [xe1af35.github.io](https://xe1af35.github.io)
+
 ## Projects
 
 | Project | What it does |
@@ -14,3 +16,5 @@ Everything runs in your browser and stays on your device. No accounts, no server
 - **Local-first:** your data lives on your device, with backups you control
 - **Private by default:** no analytics, no tracking, and nothing sent anywhere
 - **Open source:** all projects are MIT licensed
+
+XE1AF35 is run by [V. Ha Ly](https://havl-code.github.io).
