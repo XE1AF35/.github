@@ -1,4 +1,4 @@
-# XE1AF35
+# <img src="icons/xe1af35.png" width="40" height="40" alt=""> XE1AF35
 Small, local-first tools for photographers.
 Everything runs in your browser and stays on your device. No accounts, no servers, and no tracking.
 
@@ -8,8 +8,8 @@ Everything runs in your browser and stays on your device. No accounts, no server
 
 | Project | What it does |
 | --- | --- |
-| [Bodycap](https://github.com/XE1AF35/bodycap) | Organise your camera gear: lenses, bodies, kits, loans, and maintenance. Works offline. [Open it](https://xe1af35.github.io/bodycap/) |
-| [Hotshoe](https://github.com/XE1AF35/hotshoe) | Log where you took a photo on your iPhone, then geotag it later with GPX or coordinates. [Open it](https://xe1af35.github.io/hotshoe/) |
+| <img src="icons/bodycap.png" width="20" height="20" alt=""> [Bodycap](https://github.com/XE1AF35/bodycap) | Organise your camera gear: lenses, bodies, kits, loans, and maintenance. Works offline. [Open it](https://xe1af35.github.io/bodycap/) |
+| <img src="icons/hotshoe.png" width="20" height="20" alt=""> [Hotshoe](https://github.com/XE1AF35/hotshoe) | Log where you took a photo on your iPhone, then geotag it later with GPX or coordinates. [Open it](https://xe1af35.github.io/hotshoe/) |
 
 ## Principles
 
