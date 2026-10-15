@@ -1,7 +1,5 @@
 # XE1AF35
-
 Small, local-first tools for photographers.
-
 Everything runs in your browser and stays on your device. No accounts, no servers, and no tracking.
 
 ## Projects
